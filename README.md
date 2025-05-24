@@ -1,3 +1,3 @@
-# Multilingual AI-Based Test Automation Framework
+# Multilingual AI-Based Testing
 
-A generic, multilingual, AI-enhanced test automation framework supporting Python, Kotlin, and Java-based test runners.
+A generic, multilingual, AI-enhanced test framework supporting Python, Kotlin, and Java-based test runners.
