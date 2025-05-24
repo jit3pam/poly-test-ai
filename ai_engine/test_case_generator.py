@@ -1,0 +1,1 @@
+def generate_gherkin(nl_input): return """Feature: Sample Feature\n  Scenario: Sample scenario\n    Given something\n    When an action occurs\n    Then expect a result"""
